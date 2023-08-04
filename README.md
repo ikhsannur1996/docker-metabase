@@ -1,7 +1,3 @@
-Sure! To add the auto-restart option, we'll use the `--restart` flag with the `docker run` command. Here's the updated README file with the auto-restart option included:
-
-## README.md
-
 ### Metabase Docker Setup with Auto-Restart
 
 This repository contains the necessary files to run Metabase using Docker with auto-restart.
